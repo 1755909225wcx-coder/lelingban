@@ -1,0 +1,7 @@
+streamlit
+openai
+python-dotenv
+streamlit-mic-recorder
+gTTS
+watchdog
+streamlit-float
